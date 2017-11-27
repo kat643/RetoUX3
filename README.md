@@ -27,7 +27,7 @@ Este proyecto contiene:
 
 1. Un archivo  **`README.md`** que explica el contenido del repositorio.
 
-2. Una carpeta `img` donde se encuentra las imágene empleada en el sketch en un formato **jpg**.
+2. Una carpeta `img` donde se encuentra la imagen empleada en el sketch en un formato **jpg**.
 
 ## Autora
 Kattia Rojas Arohuanca.
